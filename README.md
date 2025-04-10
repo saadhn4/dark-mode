@@ -12,7 +12,7 @@ This is a simple React app that allows users to switch between **light** and **d
 - Styled with **Tailwind CSS**
 - Fully responsive layout
 
---- 💡 How It Works
+## 💡 How It Works
 
 - A themeContext is created using createContext().
 - The ThemeProvider component holds the state (theme) and a toggleTheme function
